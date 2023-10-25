@@ -1,8 +1,8 @@
 # 内容：academic
 # 数量：129条
 DOMAIN-SUFFIX,nstl.gov.cn
-DOMAIN-SUFFIX,ustc.edu.cn
-DOMAIN-SUFFIX,ustc.edu
+# DOMAIN-SUFFIX,ustc.edu.cn
+# DOMAIN-SUFFIX,ustc.edu
 DOMAIN-KEYWORD,ustc-bj
 DOMAIN-SUFFIX,cssci.nju.edu.cn
 DOMAIN-SUFFIX,iresearchbook.cn
