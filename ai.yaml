@@ -3,6 +3,8 @@ payload:
   - DOMAIN-KEYWORD,openai
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
