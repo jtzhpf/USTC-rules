@@ -3,3 +3,4 @@
 DOMAIN-SUFFIX,loongson.cn
 DOMAIN-SUFFIX,loongnix.cn
 DOMAIN-SUFFIX,3322.org
+PROCESS-NAME,CloudflareST
