@@ -1,0 +1,20 @@
+# 友盟广告
+DOMAIN-SUFFIX,ulogs.umengcloud.com
+DOMAIN-SUFFIX,ulogs.umeng.com
+DOMAIN-SUFFIX,errlog.umeng.com
+
+# 快手广告
+DOMAIN-SUFFIX,open.e.kuaishou.cn
+DOMAIN-SUFFIX,open.kuaishouzt.com
+DOMAIN-SUFFIX,open.kwaizt.com
+
+# 速递易京东广告推广
+DOMAIN-SUFFIX,scs.openspeech.cn
+
+# 百度网盘浮动广告
+DOMAIN-SUFFIX,staticsns.cdn.bcebos.com
+
+# 高德地图广告
+DOMAIN-SUFFIX,optimus-ads.amap.com
+
+
