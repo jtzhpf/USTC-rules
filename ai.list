@@ -8,7 +8,9 @@ DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,api.msn.com
 DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,assets.msn.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,bing.com
@@ -24,6 +26,7 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,forefront.ai
@@ -31,6 +34,8 @@ DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,gptshunter.com
+DOMAIN-SUFFIX,heygen.com
 DOMAIN-SUFFIX,heypi.com
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,identrust.com
@@ -39,10 +44,13 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,lobehub.com
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,onfastspring.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pi.ai
@@ -60,3 +68,9 @@ DOMAIN-KEYWORD,huggingface
 DOMAIN-KEYWORD,openai
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
+PROCESS-NAME,chatgpt
+PROCESS-NAME,copilot
+PROCESS-NAME,coze
+PROCESS-NAME,heygen
+PROCESS-NAME,microsoft-copilot
+PROCESS-NAME,openai
