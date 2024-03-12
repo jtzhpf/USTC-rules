@@ -1,3 +1,5 @@
+# 内容：AI
+# 数量：96条
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,browser-intake-datadoghq.com
@@ -54,6 +56,7 @@ DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,lobehub.com
 DOMAIN-SUFFIX,location.microsoft.com
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,oaistatic.com
@@ -64,6 +67,7 @@ DOMAIN-SUFFIX,onfastspring.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openai.nooc.ink
 DOMAIN-SUFFIX,openai-api.arkoselabs.com
+DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
@@ -72,6 +76,7 @@ DOMAIN-SUFFIX,pi.ai
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,promptingguide.ai
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
@@ -80,6 +85,7 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,huggingface
+DOMAIN-KEYWORD,midjourney
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaicom-api
 IP-CIDR,24.199.123.28/32,no-resolve

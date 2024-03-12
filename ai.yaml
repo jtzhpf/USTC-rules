@@ -5,17 +5,22 @@ payload:
   - DOMAIN,cdn.usefathom.com
   - DOMAIN,generativelanguage.googleapis.com
   - DOMAIN,makersuite.google.com
+  - DOMAIN,self.events.data.microsoft.com
+  - DOMAIN,services.bingapis.com
   - DOMAIN,static.cloudflareinsights.com
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,algolia.net
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,api.microsoftapp.net
   - DOMAIN-SUFFIX,api.msn.com
   - DOMAIN-SUFFIX,api.statsig.com
   - DOMAIN-SUFFIX,assets.msn.com
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
   - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,cdn.cloudflare.net
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
@@ -31,6 +36,8 @@ payload:
   - DOMAIN-SUFFIX,events.statsigapi.net
   - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,forefront.ai
+  - DOMAIN-SUFFIX,gateway.bingviz.microsoft.net
+  - DOMAIN-SUFFIX,gateway.bingviz.microsoftapp.net
   - DOMAIN-SUFFIX,geller-pa.googleapis.com
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,generativeai.google
@@ -41,24 +48,34 @@ payload:
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,imagine.meta.com
+  - DOMAIN-SUFFIX,in.appcenter.ms
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,intercomcdn.com
-  - DOMAIN-SUFFIX,ios.chat.openai.com
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,lobehub.com
+  - DOMAIN-SUFFIX,location.microsoft.com
   - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,monica.im
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,observeit.net
+  - DOMAIN-SUFFIX,odc.officeapps.live.com
   - DOMAIN-SUFFIX,onfastspring.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openai.nooc.ink
+  - DOMAIN-SUFFIX,openai-api.arkoselabs.com
+  - DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,openaicom.imgix.net
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,pi.ai
-  - DOMAIN-SUFFIX,platform.openai.com
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,poecdn.net
+  - DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
+  - DOMAIN-SUFFIX,promptingguide.ai
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
@@ -67,7 +84,9 @@ payload:
   - DOMAIN-KEYWORD,bing
   - DOMAIN-KEYWORD,claude
   - DOMAIN-KEYWORD,huggingface
+  - DOMAIN-KEYWORD,midjourney
   - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,openaicom-api
   - IP-CIDR,24.199.123.28/32,no-resolve
   - IP-CIDR,64.23.132.171/32,no-resolve
   - PROCESS-NAME,chatgpt
