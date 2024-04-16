@@ -1,4 +1,6 @@
-# Podcast
+# Proxy
+DOMAIN,dts.podtrac.com
+DOMAIN,pfx.vpixl.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,api.particlenews.com
 DOMAIN-SUFFIX,appsflyersdk.com
@@ -13,5 +15,8 @@ DOMAIN-SUFFIX,podcastrepublic.net
 DOMAIN-SUFFIX,prt.news
 DOMAIN-SUFFIX,simplecast.com
 DOMAIN-SUFFIX,simplecastcdn.com
+DOMAIN-SUFFIX,sephora.app.link
+DOMAIN-SUFFIX,sephora.com
 DOMAIN-SUFFIX,spreaker.com
+DOMAIN-SUFFIX,thisamericanlife.org
 DOMAIN-SUFFIX,tiktokcdn-us.com
