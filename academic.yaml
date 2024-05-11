@@ -2,6 +2,8 @@ payload:
   - DOMAIN-SUFFIX,nstl.gov.cn
 #   - DOMAIN-SUFFIX,ustc.edu.cn
 #   - DOMAIN-SUFFIX,ustc.edu
+  - DOMAIN-SUFFIX,recapi.ustc.edu.cn
+  - DOMAIN-SUFFIX,rec.ustc.edu.cn
   - DOMAIN-SUFFIX,wp.ustc.edu.cn
   - DOMAIN-SUFFIX,mail.ustc.edu.cn
   - DOMAIN-SUFFIX,email.ustc.edu.cn
