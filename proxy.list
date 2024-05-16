@@ -1,5 +1,4 @@
 # Proxy
-DOMAIN,dts.podtrac.com
 DOMAIN,pfx.vpixl.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,api.particlenews.com
@@ -12,6 +11,7 @@ DOMAIN-SUFFIX,img.particlenews.com
 DOMAIN-SUFFIX,log.particlenews.com
 DOMAIN-SUFFIX,newsbreak.com
 DOMAIN-SUFFIX,podcastrepublic.net
+DOMAIN-SUFFIX,podtrac.com
 DOMAIN-SUFFIX,prt.news
 DOMAIN-SUFFIX,simplecast.com
 DOMAIN-SUFFIX,simplecastcdn.com
