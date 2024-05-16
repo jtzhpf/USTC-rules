@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
 DOMAIN-SUFFIX,promptingguide.ai
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,suno.ai
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
