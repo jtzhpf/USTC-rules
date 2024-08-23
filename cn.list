@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,cn.bing.net
 DOMAIN-SUFFIX,ditu.live.com
 DOMAIN-SUFFIX,bj1.api.bing.com
 DOMAIN-SUFFIX,emoi-cncdn.bing.com
+PROCESS-NAME,CloudflareST
+PROCESS-NAME,RealiTLScanner
