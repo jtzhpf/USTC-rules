@@ -750,5 +750,8 @@ DOMAIN-SUFFIX,analytic.woozooo.com
 # parallels desktop
 PROCESS-NAME,prl_client_app
 
+# TripMode
+DOMAIN-SUFFIX,api.revenuecat.com
+
 # others
 DOMAIN-SUFFIX,wwads.cn
