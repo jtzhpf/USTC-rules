@@ -1,0 +1,67 @@
+# > IBKR
+# === 盈透证券 IBKR 核心服务 ===
+DOMAIN-KEYWORD,ibkr
+DOMAIN-SUFFIX,ibkr.ca
+DOMAIN-SUFFIX,ibkr.co.in
+DOMAIN-SUFFIX,ibkr.co.uk
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibkr.com.au
+DOMAIN-SUFFIX,ibkr.com.hk
+DOMAIN-SUFFIX,ibkr.com.sg
+DOMAIN-SUFFIX,ibkr.eu
+DOMAIN-SUFFIX,ibkr.ie
+DOMAIN-SUFFIX,ibkrguides.com
+DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,ibllc.com.cn
+DOMAIN-SUFFIX,interactivebrokers.ca
+DOMAIN-SUFFIX,interactivebrokers.co.in
+DOMAIN-SUFFIX,interactivebrokers.co.jp
+DOMAIN-SUFFIX,interactivebrokers.co.uk
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,interactivebrokers.com.au
+DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,interactivebrokers.com.sg
+DOMAIN-SUFFIX,interactivebrokers.eu
+DOMAIN-SUFFIX,interactivebrokers.ie
+DOMAIN-KEYWORD,usfarm
+DOMAIN-KEYWORD,ushmds
+DOMAIN-KEYWORD,secdef
+PROCESS-NAME,IBKR*
+USER-AGENT,IBKR*
+
+# === Zacks 财经图表/分析平台 ===
+DOMAIN-SUFFIX,zacks.com
+
+# === Akamai mPulse 性能统计服务（可选设为 REJECT 或 DIRECT） ===
+DOMAIN-SUFFIX,go-mpulse.net
+
+# > Charles Schwab
+DOMAIN-SUFFIX,aboutschwab.com
+DOMAIN-SUFFIX,schwab.co.uk
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwab.com.hk
+DOMAIN-SUFFIX,schwab.com.sg
+DOMAIN-SUFFIX,schwab.net
+DOMAIN-SUFFIX,schwabassetmanagement.com
+DOMAIN-SUFFIX,schwabplan.com  
+DOMAIN-SUFFIX,schwabcdn.com
+DOMAIN-SUFFIX,schwabcharitable.org
+DOMAIN-SUFFIX,schwabmoneywise.com
+DOMAIN-SUFFIX,schwabfoundation.org
+DOMAIN-SUFFIX,schwabjobs.com
+DOMAIN-SUFFIX,schwabapi.com
+DOMAIN-SUFFIX,schwabbank.com
+DOMAIN-SUFFIX,charlesschwab.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,thinkorswim.com
+DOMAIN-SUFFIX,tdameritrade.com
+DOMAIN-SUFFIX,trefis.com
+DOMAIN-SUFFIX,ameritrade.com
+IP-CIDR,162.93.0.0/16,no-resolve
+IP-CIDR,74.114.36.0/22,no-resolve
+DOMAIN-SUFFIX,tos.mx
+DOMAIN-KEYWORD,schwab
+DOMAIN-KEYWORD,thinkorswim
+
+
+
